@@ -1,0 +1,5 @@
+
+■起動
+C:\Users\Name\djangogirls > myvenv\Scripts\activate
+■マイサイト
+django-admin.exe startproject mysite .
